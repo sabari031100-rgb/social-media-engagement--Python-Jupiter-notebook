@@ -1,0 +1,2 @@
+# social-media-engagement--Python-Jupiter-notebook
+Social Media Engagement Analysis using Python  Data cleaning and preprocessing with pandas  Analyzed likes, comments, and reactions across different post types  Visualized trends using matplotlib and seaborn  Created insights on reaction distribution (likes, loves, wows, etc.)  Compared engagement across photos, videos, links, and status updates  
